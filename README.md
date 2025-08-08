@@ -23,6 +23,13 @@ This repository contains the implementation and performance analysis of the Quas
 - **NonlinearOptimization.pdf**  
   Full project report with methodology, experiments, and results.
 
+
+  ## Rosenbrock Function Visualization
+
+The following image illustrates the Rosenbrock function, which is widely used as a benchmark in optimization problems. It helps to visualize the curvature and challenges of the optimization landscape tackled by the implemented methods.
+
+![Rosenbrock Function Visualization](images/rosenbrock_visualization.png)
+
 ## How to Use
 
 1. Open the MATLAB environment.
